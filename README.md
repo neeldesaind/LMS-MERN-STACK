@@ -24,7 +24,6 @@ Here’s your **Technologies Used** section with icons and links:
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) **[MongoDB](https://www.mongodb.com/)**  
 - ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white) **[JWT (JSON Web Token)](https://jwt.io/)**  
 - ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white) **[Razorpay](https://razorpay.com/)**  
-- ![Stripe](https://img.shields.io/badge/Stripe-6264A7?style=for-the-badge&logo=stripe&logoColor=white) **[Stripe](https://stripe.com/)**  
 
 #### Installation
 1) Clone the Repository

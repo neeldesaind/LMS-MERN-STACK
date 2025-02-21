@@ -91,8 +91,7 @@ This will display the icons as clickable links in your README. Let me know if yo
 ![image](https://github.com/user-attachments/assets/a193fbda-7f10-4a40-b20d-80dfe4a7e645)
 
 **Contributors**
-👨‍💻 [Neel Desai](https://github.com/neeldesaind)
-👨‍💻 [Dhaval Chhayla](https://github.com/dhavalchhaylaofficial)
+<a href="https://github.com/neeldesaind"> <img src="https://github.com/neeldesaind.png" width="100" height="100" style="border-radius: 50%;" /> </a> 👨‍💻 [Neel Desai](https://github.com/neeldesaind) <a href="https://github.com/dhavalchhaylaofficial"> <img src="https://github.com/dhavalchhaylaofficial.png" width="100" height="100" style="border-radius: 50%;" /> </a> 👨‍💻 [Dhaval Chhayla](https://github.com/dhavalchhaylaofficial)
 
 
 **Thank you for visiting!**

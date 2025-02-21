@@ -90,8 +90,19 @@ This will display the icons as clickable links in your README. Let me know if yo
 ![image](https://github.com/user-attachments/assets/32dd6be5-8d6f-47f8-81af-e4b2fa7f94d7)
 ![image](https://github.com/user-attachments/assets/a193fbda-7f10-4a40-b20d-80dfe4a7e645)
 
-**Contributors**
-<a href="https://github.com/neeldesaind"> <img src="https://github.com/neeldesaind.png" width="100" height="100" style="border-radius: 50%;" /> </a> 👨‍💻 [Neel Desai](https://github.com/neeldesaind) <a href="https://github.com/dhavalchhaylaofficial"> <img src="https://github.com/dhavalchhaylaofficial.png" width="100" height="100" style="border-radius: 50%;" /> </a> 👨‍💻 [Dhaval Chhayla](https://github.com/dhavalchhaylaofficial)
+---
+
+## **Contributors**  
+
+[![Neel Desai](https://github.com/neeldesaind.png?size=100)](https://github.com/neeldesaind)  
+👨‍💻 [Neel Desai](https://github.com/neeldesaind)  
+
+[![Dhaval Chhayla](https://github.com/dhavalchhaylaofficial.png?size=100)](https://github.com/dhavalchhaylaofficial)  
+👨‍💻 [Dhaval Chhayla](https://github.com/dhavalchhaylaofficial)  
+
+---
+
+This will display your GitHub profile pictures along with clickable links. Let me know if you want any changes! 🚀😊
 
 
 **Thank you for visiting!**

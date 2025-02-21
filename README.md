@@ -12,11 +12,11 @@
 **6) Course Enrollment with Payment Gateway Integration** <br>
 **7) Progress Tracking with Completion Indicators** <br>
 
-**Technologies Used
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT (JSON Web Token)
+**Technologies Used <br>
+Frontend: React.js, Tailwind CSS<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB<br>
+Authentication: JWT (JSON Web Token)<br>
 Payment Gateway: Razorpay/Stripe (if applicable)**
 
 #### Installation
@@ -87,8 +87,8 @@ Payment Gateway: Razorpay/Stripe (if applicable)**
 ![image](https://github.com/user-attachments/assets/a193fbda-7f10-4a40-b20d-80dfe4a7e645)
 
 **Contributors**
-👨‍💻 [Neel Desai]("https://github.com/neeldesaind")
-👨‍💻 [Dhaval Chhayla]("https://github.com/dhavalchhaylaofficial")
+👨‍💻 [Neel Desai](https://github.com/neeldesaind)
+👨‍💻 [Dhaval Chhayla](https://github.com/dhavalchhaylaofficial)
 
 
 **Thank you for visiting!**

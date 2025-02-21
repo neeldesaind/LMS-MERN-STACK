@@ -4,13 +4,13 @@
 ## This is an online learning platform that enables users to register, enroll in courses, track progress, and manage lectures. The system includes separate dashboards for students and administrators, as well as secure authentication and payment integration.
 
 **Features**
-**1) User Registration and Login**
-**2) OTP Verification for Security**
-**3) Password Recovery**
-**4) Admin Dashboard for Managing Courses and Lectures**
-**5) Student Dashboard to Track Enrolled Courses**
-**6) Course Enrollment with Payment Gateway Integration**
-**7) Progress Tracking with Completion Indicators**
+**1) User Registration and Login** <br>
+**2) OTP Verification for Security** <br>
+**3) Password Recovery** <br>
+**4) Admin Dashboard for Managing Courses and Lectures** <br>
+**5) Student Dashboard to Track Enrolled Courses** <br>
+**6) Course Enrollment with Payment Gateway Integration** <br>
+**7) Progress Tracking with Completion Indicators** <br>
 
 ### Home
 ![image](https://github.com/user-attachments/assets/b28e0d2e-5e7d-44a8-b285-512cbf7a0832)

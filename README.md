@@ -12,6 +12,13 @@
 **6) Course Enrollment with Payment Gateway Integration** <br>
 **7) Progress Tracking with Completion Indicators** <br>
 
+**Technologies Used
+Frontend: React.js, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT (JSON Web Token)
+Payment Gateway: Razorpay/Stripe (if applicable)**
+
 #### Installation
 1) Clone the Repository
 >git clone https://github.com/neeldesaind/LMS-MERN-STACK
@@ -23,6 +30,8 @@
 3) Configure Environment Variables (sample is provided)
 4) Start Server and frontend
 >npm start
+
+
 
 ### Home
 ![image](https://github.com/user-attachments/assets/b28e0d2e-5e7d-44a8-b285-512cbf7a0832)
@@ -76,6 +85,10 @@
 ### Progress bar completion when completed on basis of lecture
 ![image](https://github.com/user-attachments/assets/32dd6be5-8d6f-47f8-81af-e4b2fa7f94d7)
 ![image](https://github.com/user-attachments/assets/a193fbda-7f10-4a40-b20d-80dfe4a7e645)
+
+**Contributors**
+👨‍💻 [Neel Desai]("https://github.com/neeldesaind")
+👨‍💻 [Dhaval Chhayla]("https://github.com/dhavalchhaylaofficial")
 
 
 **Thank you for visiting!**

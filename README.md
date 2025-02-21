@@ -12,18 +12,19 @@
 **6) Course Enrollment with Payment Gateway Integration** <br>
 **7) Progress Tracking with Completion Indicators** <br>
 
-**Technologies Used <br>
-Here’s your **Technologies Used** section with icons and links:  
+## **Technologies Used**  
+
+[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white)](https://jwt.io/)  
+[![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com/)  
+[![Stripe](https://img.shields.io/badge/Stripe-6264A7?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)  
 
 ---
 
-## **Technologies Used**  
-- ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **[React.js](https://react.dev/)**  
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) **[Node.js](https://nodejs.org/)**  
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) **[Express.js](https://expressjs.com/)**  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) **[MongoDB](https://www.mongodb.com/)**  
-- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white) **[JWT (JSON Web Token)](https://jwt.io/)**  
-- ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white) **[Razorpay](https://razorpay.com/)**  
+This will display the icons as clickable links in your README. Let me know if you need any tweaks! 🚀😊
 
 #### Installation
 1) Clone the Repository

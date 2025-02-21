@@ -12,6 +12,18 @@
 **6) Course Enrollment with Payment Gateway Integration** <br>
 **7) Progress Tracking with Completion Indicators** <br>
 
+#### Installation
+1) Clone the Repository
+>git clone https://github.com/neeldesaind/LMS-MERN-STACK
+>cd LMS-MERN-STACK
+
+2) Install Dependencies:
+>npm install
+
+3) Configure Environment Variables (sample is provided)
+4) Start Server and frontend
+>npm start
+
 ### Home
 ![image](https://github.com/user-attachments/assets/b28e0d2e-5e7d-44a8-b285-512cbf7a0832)
 ![image](https://github.com/user-attachments/assets/449650cb-cd69-45d1-ac7a-f7b5be40eb4b)
@@ -65,16 +77,5 @@
 ![image](https://github.com/user-attachments/assets/32dd6be5-8d6f-47f8-81af-e4b2fa7f94d7)
 ![image](https://github.com/user-attachments/assets/a193fbda-7f10-4a40-b20d-80dfe4a7e645)
 
-#### Installation
-1) Clone the Repository
->git clone https://github.com/neeldesaind/LMS-MERN-STACK
->cd LMS-MERN-STACK
-
-2) Install Dependencies:
->npm install
-
-3) Configure Environment Variables (sample is provided)
-4) Start Server and frontend
->npm start
 
 **Thank you for visiting!**

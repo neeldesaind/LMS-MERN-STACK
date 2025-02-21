@@ -1,0 +1,25 @@
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  
+    .box {
+      margin-left: 20px;
+      background-color: #007bff;
+      padding: 15px;
+      border-radius: 5px;
+      text-align: center;
+      margin-top: 5px;
+      color: white;
+  
+      &:hover {
+        background-color: #0946df;
+      }
+    }
+  }
+  .chart-container {
+    width: 100%;
+    max-width: 600px; /* Maximum width of the chart */
+    margin: 20px auto; /* Center the chart with auto margins */
+  }

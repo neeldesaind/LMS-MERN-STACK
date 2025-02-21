@@ -1,0 +1,53 @@
+footer {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-content p {
+    margin: 2;
+    font-size: 14px;
+  }
+  
+  .footer-content a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .footer-content .social-links {
+    margin-top: 10px;
+  }
+  
+  /* Social Links Style (Outlined Button-like Effect) */
+  .footer-content .social-links a {
+    color: white; /* Primary button color */
+    font-size: 18px;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease, background-color 0.3s ease;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: transparent; /* Transparent background like outline button */
+    border: 2px solid white; /* Border color like btn-outline-primary */
+    text-align: center;
+    line-height: 40px; /* Vertically centers the icon */
+  }
+  
+  /* Hover Effect */
+  .footer-content .social-links a:hover {
+    color: #007bff;
+    background-color: white; /* Fill with primary color on hover */
+    transform: scale(1.1); /* Slightly enlarge on hover */
+  }
+  

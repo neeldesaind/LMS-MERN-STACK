@@ -1,0 +1,74 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Vertically centers the content */
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    height: 40px; /* Adjust header height as needed */
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center; /* Vertically centers the image within the logo container */
+  }
+  
+  .logo img {
+    margin-top: 25px;
+    max-height: 100%; /* Ensures the image fits the container */
+    max-width: 150px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Aligns properly */
+    transform: translateY(-10px); /* Moves the image 10px upward */
+  }
+  
+  .link {
+    display: flex;
+    gap: 2rem; /* Space between links */
+  }
+  
+  .link a {
+    text-decoration: none; /* Remove underline */
+    color: gray; /* Default text color */
+    position: relative; /* For the underline effect */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+  }
+  
+  .link a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 2px; /* Thickness of the underline */
+    background-color: gray; /* Same color as the text */
+    transform: scaleX(0); /* Start with no underline */
+    transform-origin: left;
+    transition: transform 0.3s ease, background-color 0.3s ease; /* Smooth transition for underline */
+  }
+  
+  .link a:hover {
+    color: #007bff; /* Change the text color on hover */
+  }
+  
+  .link a:hover::after {
+    transform: scaleX(1); /* Show the underline on hover */
+    background-color: #007bff; /* Match underline color with hover text */
+  }
+  
+  /* Media Query for smaller screens */
+  @media (max-width: 768px) {
+    .logo img {
+      max-width: 100px; /* Make the logo smaller on mobile devices */
+    }
+  
+    .link {
+      gap: 0.5rem; /* Reduce spacing between links */
+    }
+  
+    .link a {
+      font-size: 14px; /* Adjust link font size for smaller screens */
+    }
+  }
+  

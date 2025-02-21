@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: sans-serif;
+}
+
+.common-btn {
+  background-color: transparent; /* Transparent background */
+  color: #007bff; /* Bootstrap primary text color */
+  padding: 10px 20px;
+  border: 1px solid #007bff; /* Border color matching the primary color */
+  border-radius: 0.25rem; /* Bootstrap's border radius */
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+  margin-top: 10px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none; /* Prevent underline */
+
+  &:hover {
+    background-color: #007bff; /* Background color on hover */
+    color: white; /* Change text color on hover */
+    border-color: #007bff; /* Match border with background on hover */
+  }
+
+  &:focus {
+    outline: none; /* Remove default outline */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); /* Focus shadow effect */
+  }
+
+  @media (max-width: 768px) {
+    font-size: 16px; /* Responsive font size */
+  }
+}
+
+.common-btn-white {
+  background-color: transparent; /* Transparent background */
+  color: white; /* Bootstrap primary text color */
+  padding: 10px 20px;
+  border: 1px solid white; /* Border color matching the primary color */
+  border-radius: 0.25rem; /* Bootstrap's border radius */
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+  margin-top: 10px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none; /* Prevent underline */
+
+  &:hover {
+    background-color: white; /* Background color on hover */
+    color: #007bff; /* Change text color on hover */
+    border-color: white; /* Match border with background on hover */
+  }
+
+  &:focus {
+    outline: none; /* Remove default outline */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); /* Focus shadow effect */
+  }
+
+  @media (max-width: 768px) {
+    font-size: 16px; /* Responsive font size */
+  }
+}
+
+.common-btn-red {
+  background-color: transparent; /* Transparent background */
+  color: #ff4c4c; /* Bootstrap primary text color */
+  padding: 10px 20px;
+  border: 1px solid #ff4c4c; /* Border color matching the primary color */
+  border-radius: 0.25rem; /* Bootstrap's border radius */
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+  margin-top: 10px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none; /* Prevent underline */
+
+  &:hover {
+    background-color: #ff4c4c; /* Background color on hover */
+    color: white; /* Change text color on hover */
+    border-color: #ff4c4c; /* Match border with background on hover */
+  }
+}

@@ -1,4 +1,16 @@
-![image](https://github.com/user-attachments/assets/8ed4e7d4-76cc-4070-96e6-38482001d27d)
+# Learning Management System: Mern Stack (Mongo DB, Express Js, React Js, Node Js)
+### Overview
+
+## This is an online learning platform that enables users to register, enroll in courses, track progress, and manage lectures. The system includes separate dashboards for students and administrators, as well as secure authentication and payment integration.
+
+**Features**
+**1) User Registration and Login**
+**2) OTP Verification for Security**
+**3) Password Recovery**
+**4) Admin Dashboard for Managing Courses and Lectures**
+**5) Student Dashboard to Track Enrolled Courses**
+**6) Course Enrollment with Payment Gateway Integration**
+**7) Progress Tracking with Completion Indicators**
 
 ### Home
 ![image](https://github.com/user-attachments/assets/b28e0d2e-5e7d-44a8-b285-512cbf7a0832)
@@ -53,4 +65,16 @@
 ![image](https://github.com/user-attachments/assets/32dd6be5-8d6f-47f8-81af-e4b2fa7f94d7)
 ![image](https://github.com/user-attachments/assets/a193fbda-7f10-4a40-b20d-80dfe4a7e645)
 
+#### Installation
+1) Clone the Repository
+>git clone https://github.com/neeldesaind/LMS-MERN-STACK
+>cd LMS-MERN-STACK
 
+2) Install Dependencies:
+>npm install
+
+3) Configure Environment Variables (sample is provided)
+4) Start Server and frontend
+>npm start
+
+**Thank you for visiting!**

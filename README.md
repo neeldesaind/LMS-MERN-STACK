@@ -3,7 +3,7 @@
 
 ## This is an online learning platform that enables users to register, enroll in courses, track progress, and manage lectures. The system includes separate dashboards for students and administrators, as well as secure authentication and payment integration.
 
-**Features**
+**Features:** <br>
 **1) User Registration and Login** <br>
 **2) OTP Verification for Security** <br>
 **3) Password Recovery** <br>
